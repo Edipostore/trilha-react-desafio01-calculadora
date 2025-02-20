@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+Calculadora Científica em React
+Visão Geral
+Este é um projeto de calculadora científica desenvolvido com React. A aplicação fornece funcionalidades básicas de uma calculadora, como adição, subtração, multiplicação e divisão, além de operações científicas avançadas, como seno, cosseno, tangente, logaritmo e exponenciação. O objetivo deste projeto é demonstrar a construção de uma aplicação interativa e funcional utilizando a biblioteca React.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Funcionalidades
+Operações Básicas: Adição, subtração, multiplicação e divisão.
 
-## Available Scripts
+Operações Científicas: Seno, cosseno, tangente, logaritmo e exponenciação.
 
-In the project directory, you can run:
+Interface de Usuário Intuitiva: Design simples e responsivo.
 
-### `npm start`
+Componentes Reutilizáveis: Uso de componentes React para criar uma interface modular e de fácil manutenção.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Tecnologias Utilizadas
+React: Biblioteca JavaScript para construção de interfaces de usuário.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Styled Components: Biblioteca para estilização de componentes React com CSS-in-JS.
 
-### `npm test`
+JavaScript: Linguagem de programação utilizada no desenvolvimento da aplicação.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Como Executar o Projeto
+Clone o repositório para o seu computador:
 
-### `npm run build`
+bash
+git clone https://github.com/seu-usuario/calculadora-cientifica-react.git
+Navegue até o diretório do projeto:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+bash
+cd calculadora-cientifica-react
+Instale as dependências:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+bash
+npm install
+Inicie o servidor de desenvolvimento:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+bash
+npm start
+Acesse a aplicação em seu navegador:
 
-### `npm run eject`
+http://localhost:3000
+Contribuições
+Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encontrar algum bug, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Licença
+Este projeto está licenciado sob a MIT License.
